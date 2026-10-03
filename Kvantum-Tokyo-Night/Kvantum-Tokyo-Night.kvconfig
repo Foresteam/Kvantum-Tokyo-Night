@@ -76,9 +76,9 @@ tooltip_blur_radius=0
 
 [GeneralColors]
 window.color=#1a1b26
-base.color=#1a1b26
-alt.base.color=#24283b
-button.color=#1a1b26
+base.color=#1a1b2600
+alt.base.color=#24283b00
+button.color=#2c3148
 light.color=#ffffff
 mid.light.color=#cacaca
 dark.color=#9f9f9f
@@ -96,7 +96,7 @@ highlight.text.color=#16161e
 inactive.highlight.text.color=#16161e
 link.color=#bb9af7
 link.visited.color=#7aa2f7
-progress.indicator.text.color=#15161e
+progress.indicator.text.color=#16161e
 
 [Hacks]
 transparent_ktitle_label=true
@@ -134,8 +134,8 @@ interior.element=button
 indicator.size=9
 text.normal.color=#c0caf5
 text.focus.color=#c0caf5
-text.press.color=#15161e
-text.toggle.color=#15161e
+text.press.color=#16161e
+text.toggle.color=#16161e
 text.shadow=0
 text.margin=1
 text.iconspacing=4
@@ -343,8 +343,8 @@ text.margin.left=4
 text.margin.right=4
 text.normal.color=#c0caf5
 text.focus.color=#c0caf5
-text.press.color=#15161e
-text.toggle.color=#15161e
+text.press.color=#16161e
+text.toggle.color=#16161e
 frame.expansion=0
 
 [Splitter]
@@ -379,7 +379,7 @@ frame.element=menuitem
 interior.element=menuitem
 indicator.element=menuitem
 text.normal.color=#c0caf5
-text.focus.color=#15161e
+text.focus.color=#16161e
 text.margin.top=1
 text.margin.bottom=1
 text.margin.left=15
@@ -411,7 +411,7 @@ text.margin.right=4
 text.margin.top=0
 text.margin.bottom=0
 text.normal.color=#c0caf5
-text.focus.color=#15161e
+text.focus.color=#16161e
 frame.expansion=0
 
 [TitleBar]
@@ -430,7 +430,7 @@ frame.expansion=0
 inherits=PanelButtonCommand
 interior.element=combo
 frame.element=combo
-text.press.color=#c0caf5
+text.press.color=#16161e
 indicator.element=carrow
 
 [Menu]
