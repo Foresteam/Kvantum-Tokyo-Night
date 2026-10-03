@@ -1,8 +1,11 @@
-# A kvantum theme for Tokyo Night color palette
-This theme is a modified version of [colin-heffernan's](https://github.com/colin-heffernan) [Kvantum-Tokyo-Night-Theme](https://github.com/colin-heffernan/Kvantum-Tokyo-Night-Theme).
+# A Kvantum theme for Tokyo Night color palette of Noctalia, with transparency
 
-![Screenshot 1](./assets/20240808_15h07m03s_grim.png)
-![Screenshot 2](./assets/20240808_15h07m21s_grim.png)
+This theme is a modified version of [0xsch1zo/Kvantum-Tokyo-Night](https://github.com/0xsch1zo/Kvantum-Tokyo-Night).
+
+![Screenshot 1](./assets/Screenshot1.webp)
 
 ## Special thanks
-To [colin-heffernan](https://github.com/colin-heffernan) for the original theme
+
+To [0xsch1zo](https://github.com/0xsch1zo) for the base.
+
+To [colin-heffernan](https://github.com/colin-heffernan) for the original theme.
